@@ -122,8 +122,10 @@ developers](https://www.weblineindia.com/hire-ios-app-developers.html).
 Detailed changes for each release are documented in [CHANGELOG](./CHANGELOG).
 
 ## License
-[MIT] (LICENSE)
-[https://github.com/weblineindia/iOS-Custom-Drawer-Menu/blob/master/LICENSE]: https://github.com/weblineindia/iOS-Custom-Drawer-Menu/blob/master/LICENSE
+
+ [MIT](LICENSE)
+
+ [mit]: https://github.com/weblineindia/iOS-Custom-Drawer-Menu/blob/master/LICENSE
 
 ## Keywords
 iOS Drawer Menu, Slider Menu, Swift Slider Menu, Drawer Menu, Side Menu , Weblineindia
